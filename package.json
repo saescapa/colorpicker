@@ -1,0 +1,22 @@
+{
+  "name": "colopicker",
+  "version": "2.0.0",
+  "description": "Remake of Colorpicker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saescapa/colorpicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saescapa/colorpicker/issues"
+  },
+  "homepage": "https://github.com/saescapa/colorpicker#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
